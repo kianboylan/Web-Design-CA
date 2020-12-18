@@ -1,0 +1,93 @@
+.heading{
+	text-align:center;
+	height:50px;
+	background-color:#6495ED;
+	color:white;
+	margin-left:300px;
+	margin-right:300px;
+	border-style:solid;
+	border-color:black;
+}
+.details{
+	text-align:center;
+	height:415px;
+	background-color:#6495ED;
+	color:white;
+	margin-left:300px;
+	margin-right:300px;
+	border-style:solid;
+	border-color:black;
+}
+
+/* Kian's CSS*/
+h3{
+	font-family: 'Sansita Swashed', cursive;
+}
+
+p{
+	font-family: 'Nerko One', cursive;
+	font-size: large; /*I used this link to help me increase text size https://www.w3schools.com/cssref/pr_font_font-size.asp*/
+}
+
+.display-4{
+	font-family: 'Sansita Swashed', cursive;
+	color: #00C2CB; /*I used this link to help me change the text color: https://www.w3schools.com/css/css_text.asp*/
+ 
+}
+
+.dropdown-menu{
+	font-family: 'Nerko One', cursive;
+}
+
+.navbar-brand{
+	font-family: 'Nerko One', cursive;
+}
+
+.nav-item-active /*put a dash between "item" and "active" in the Navbar for the contact page class*/ {
+	font-family: 'Nerko One', cursive;
+}
+
+.nav-item{
+	font-family: 'Nerko One', cursive;
+}
+
+.navbar{
+	background-color: white;
+}
+
+.form{
+	font-family: 'Nerko One', cursive;
+	font-size: large;
+}
+
+
+
+.form{
+	font-family: 'Nerko One', cursive;
+	font-size: large;
+	text-align:center;
+	height:340px;
+	background-color:#6495ED;
+	color:white;
+	margin-left:300px;
+	margin-right:300px;
+	border-style:solid;
+	border-color:black;
+}
+
+h4{
+      colour:#00C2CB;
+}
+
+small{
+       colour: white
+}
+
+.form1{
+	font-family: 'Nerko One', cursive;
+}
+	
+
+
+
+
